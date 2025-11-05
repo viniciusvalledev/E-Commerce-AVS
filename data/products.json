@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "name": "T-SHIRT SALMOS 23:4",
+    "price": 120.0,
+    "image": "/assets/SALMOS.gif",
+    "description": "A definição de minimalismo. 100% algodão pima, corte reto e conforto absoluto. Perfeita para qualquer ocasião.",
+     "dropName": "DROP 1",
+    "status": "available",
+    "category": "t-shirt",
+    "colors": [
+      { "name": "Preto", "available": true },
+      { "name": "Branco", "available": true }
+    ],
+    "sizes": [
+      { "name": "S", "available": true },
+      { "name": "M", "available": true },
+      { "name": "L", "available": true },
+      { "name": "XL", "available": true }
+    ],
+    "media": [
+      { "type": "image", "url": "/assets/salmos_branca_F.jpg" },
+      { "type": "image", "url": "/assets/salmos_branca_C.jpg" },
+      { "type": "image", "url": "/assets/salmos_preta_F.jpg" },
+      { "type": "image", "url": "/assets/salmos_preta_C.jpg" },
+      { "type": "image", "url": "/assets/SALMOS.gif" }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "T-SHIRT SAINT WARRIOR",
+    "price": 120.0,
+    "image": "/assets/SAINTWARRIOR.gif",
+    "description": "A definição de minimalismo. 100% algodão pima, corte reto e conforto absoluto. Perfeita para qualquer ocasião.",
+     "dropName": "DROP 1",
+    "status": "available",
+    "category": "t-shirt",
+    "colors": [
+      { "name": "Preto", "available": true },
+      { "name": "Branco", "available": true }
+    ],
+    "sizes": [
+      { "name": "S", "available": true },
+      { "name": "M", "available": true },
+      { "name": "L", "available": true },
+      { "name": "XL", "available": true }
+    ],
+    "media": [
+      { "type": "image", "url": "/assets/saintwarrior_branca_f.jpg" },
+      { "type": "image", "url": "/assets/saintwarrior_branca_C.jpg" },
+      { "type": "image", "url": "/assets/saintwarrior_preta_f.jpg" },
+      { "type": "image", "url": "/assets/saintwarrior_preta_C.jpg" },
+      { "type": "image", "url": "/assets/SAINTWARRIOR.gif" }
+    ]
+  }
+]
